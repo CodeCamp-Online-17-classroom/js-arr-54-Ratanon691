@@ -1,7 +1,8 @@
-# js-lab-139
-### Lab139 Array: ผลรวมของเลขที่มีค่าน้อยกว่า 40
-จงหาผลรวมของเลขที่มีค่าน้อยกว่า 40 ที่อยู่ในตัวแปร str 
+# js-lab-140
+### Lab140 Array: นับชื่อที่ปรากฏใน names
+จงนับชื่อที่ปรากฏใน names
 
 ```JavaScript
-let str = '31 45 12 67 34 86 23 37 19 41';
+let names = ['Jack', 'John', 'Bill', 'John', 'Rick', 'Bill', 'John'];
+// expected result: {Jack: 1, John: 3, Bill: 2, Rick: 1}
 ```
